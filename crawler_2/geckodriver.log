@@ -493,3 +493,143 @@ JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js,
 1524143031059	Marionette	INFO	Listening on port 42067
 1524143031125	Marionette	WARN	TLS certificate errors will be ignored for this session
 *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1524143521250	geckodriver	INFO	geckodriver 0.19.1
+1524143521256	geckodriver	INFO	Listening on 127.0.0.1:35951
+1524143522366	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.zAGxrGBbTUNd"
+1524143523140	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1524143524790	Marionette	INFO	Listening on port 45339
+1524143524890	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524143844983	geckodriver	INFO	geckodriver 0.19.1
+1524143844987	geckodriver	INFO	Listening on 127.0.0.1:42609
+1524143846110	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ERFzjg5CXOlU"
+1524143846690	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1524143848305	Marionette	INFO	Listening on port 42887
+1524143848328	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1524143886508	geckodriver	INFO	geckodriver 0.19.1
+1524143886512	geckodriver	INFO	Listening on 127.0.0.1:48651
+1524143887629	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.6ohhMaOfpPm1"
+1524143888228	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1524143889740	Marionette	INFO	Listening on port 36647
+1524143889843	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1524143995971	geckodriver	INFO	geckodriver 0.19.1
+1524143995975	geckodriver	INFO	Listening on 127.0.0.1:40771
+1524143997101	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ofhel6L94cxh"
+1524143997652	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1524143999220	Marionette	INFO	Listening on port 40377
+1524143999315	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524144555683	geckodriver	INFO	geckodriver 0.19.1
+1524144555687	geckodriver	INFO	Listening on 127.0.0.1:34357
+1524144556812	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.AzdJwqxOi80O"
+1524144557422	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1524144559087	Marionette	INFO	Listening on port 36929
+1524144559148	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524144624588	geckodriver	INFO	geckodriver 0.19.1
+1524144624592	geckodriver	INFO	Listening on 127.0.0.1:60221
+1524144625714	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.jMkOQl79A0ty"
+1524144626337	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1524144627904	Marionette	INFO	Listening on port 45471
+1524144627945	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1524144896491	geckodriver	INFO	geckodriver 0.19.1
+1524144896495	geckodriver	INFO	Listening on 127.0.0.1:37527
+1524144897629	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.8HITzWgBH0KY"
+1524144898184	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1524144899660	Marionette	INFO	Listening on port 44409
+1524144899755	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1524145342627	geckodriver	INFO	geckodriver 0.19.1
+1524145342630	geckodriver	INFO	Listening on 127.0.0.1:50545
+1524145343775	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.yleNU7w0MWiV"
+1524145344387	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1524145346060	Marionette	INFO	Listening on port 42117
+1524145346142	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1524145393323	geckodriver	INFO	geckodriver 0.19.1
+1524145393328	geckodriver	INFO	Listening on 127.0.0.1:48327
+1524145394453	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.CPquUhRXcVSi"
+1524145395010	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1524145396479	Marionette	INFO	Listening on port 33703
+1524145396565	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524145436847	geckodriver	INFO	geckodriver 0.19.1
+1524145436851	geckodriver	INFO	Listening on 127.0.0.1:59063
+1524145438011	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.AEhz7mkwhwkV"
+1524145438621	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1524145440084	Marionette	INFO	Listening on port 42933
+1524145440142	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1524145516468	geckodriver	INFO	geckodriver 0.19.1
+1524145516471	geckodriver	INFO	Listening on 127.0.0.1:48711
+1524145517591	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.91WQBJ4I06E0"
+1524145518164	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1524145519624	Marionette	INFO	Listening on port 39623
+1524145519702	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:21498): dconf-WARNING **: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: 权限不够
+1524145596470	geckodriver	INFO	geckodriver 0.19.1
+1524145596478	geckodriver	INFO	Listening on 127.0.0.1:57711
+1524145597625	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.eNYp49M9Wk6d"
+1524145598234	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1524145599767	Marionette	INFO	Listening on port 42265
+1524145599845	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:22126): dconf-WARNING **: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: 权限不够
+1524145731688	geckodriver	INFO	geckodriver 0.19.1
+1524145731691	geckodriver	INFO	Listening on 127.0.0.1:44125
+1524145732867	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.4TmTdT2Y6qyt"
+1524145733483	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1524145734959	Marionette	INFO	Listening on port 44171
+1524145735005	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:23138): dconf-WARNING **: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: 权限不够
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1524145799528	geckodriver	INFO	geckodriver 0.19.1
+1524145799534	geckodriver	INFO	Listening on 127.0.0.1:53213
+1524145799908	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.IFnUCs6YrWVJ"
+1524145801145	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1524145804651	Marionette	INFO	Listening on port 34953
+1524145804776	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:23967): dconf-WARNING **: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: 权限不够
+1524145843537	geckodriver	INFO	geckodriver 0.19.1
+1524145843540	geckodriver	INFO	Listening on 127.0.0.1:45167
+1524145844689	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.EaJ4QJ2Ea0Tx"
+1524145845413	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1524145847075	Marionette	INFO	Listening on port 43849
+1524145847127	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:24505): dconf-WARNING **: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: 权限不够
+1524145941428	geckodriver	INFO	geckodriver 0.19.1
+1524145941431	geckodriver	INFO	Listening on 127.0.0.1:52233
+1524145942572	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.84lUeTObQ05u"
+1524145943168	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1524145944685	Marionette	INFO	Listening on port 36895
+1524145944782	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1524146000677	geckodriver	INFO	geckodriver 0.19.1
+1524146000681	geckodriver	INFO	Listening on 127.0.0.1:49485
+1524146001839	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.2AvyhIZdhR10"
+1524146002399	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1524146003885	Marionette	INFO	Listening on port 46491
+1524146003968	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
