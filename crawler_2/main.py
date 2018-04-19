@@ -1,3 +1,6 @@
 from selenium import webdriver
-
-browser=webdriver.Firefox()
+from config import *
+from login import login
+#定义一个浏览器
+# browser=webdriver.Firefox()
+# login(browser)

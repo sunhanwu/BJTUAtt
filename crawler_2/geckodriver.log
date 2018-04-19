@@ -633,3 +633,69 @@ JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js,
 1524146003885	Marionette	INFO	Listening on port 46491
 1524146003968	Marionette	WARN	TLS certificate errors will be ignored for this session
 *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1524146695200	geckodriver	INFO	geckodriver 0.19.1
+1524146695203	geckodriver	INFO	Listening on 127.0.0.1:46075
+1524146696345	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.OuZ7V39ghqfJ"
+1524146696954	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1524146698463	Marionette	INFO	Listening on port 33279
+1524146698561	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 31159, Chrome_ChildThread] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-WvkEP5/firefox-58.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1524146763489	geckodriver	INFO	geckodriver 0.19.1
+1524146763493	geckodriver	INFO	Listening on 127.0.0.1:42571
+1524146764616	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.EyLoNzjNzJLS"
+1524146765179	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1524146766730	Marionette	INFO	Listening on port 37187
+1524146766830	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Parent 31690, Gecko_IOThread] WARNING: pipe error (139): 连接被对方重设: file /build/firefox-WvkEP5/firefox-58.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 31733, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-WvkEP5/firefox-58.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 31733, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-WvkEP5/firefox-58.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 31733, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-WvkEP5/firefox-58.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 31733, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-WvkEP5/firefox-58.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 31733, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-WvkEP5/firefox-58.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 31733, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-WvkEP5/firefox-58.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 31733, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-WvkEP5/firefox-58.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 31733, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-WvkEP5/firefox-58.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 31733, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-WvkEP5/firefox-58.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 31733, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-WvkEP5/firefox-58.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 31733, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-WvkEP5/firefox-58.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 31733, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-WvkEP5/firefox-58.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 31733, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-WvkEP5/firefox-58.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 31733, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-WvkEP5/firefox-58.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 31733, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-WvkEP5/firefox-58.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 31733, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-WvkEP5/firefox-58.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 31733, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-WvkEP5/firefox-58.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 31733, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-WvkEP5/firefox-58.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 31733, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-WvkEP5/firefox-58.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 31733, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-WvkEP5/firefox-58.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 31733, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-WvkEP5/firefox-58.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 31733, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-WvkEP5/firefox-58.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 31733, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-WvkEP5/firefox-58.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 31733, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-WvkEP5/firefox-58.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 31733, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-WvkEP5/firefox-58.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 31733, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-WvkEP5/firefox-58.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 31733, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-WvkEP5/firefox-58.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 31733, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-WvkEP5/firefox-58.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 31733, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-WvkEP5/firefox-58.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 31733, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-WvkEP5/firefox-58.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 31733, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-WvkEP5/firefox-58.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 31733, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-WvkEP5/firefox-58.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 31733, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-WvkEP5/firefox-58.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 31733, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-WvkEP5/firefox-58.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 31733, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-WvkEP5/firefox-58.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 31733, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-WvkEP5/firefox-58.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 31733, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-WvkEP5/firefox-58.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 31733, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-WvkEP5/firefox-58.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 31733, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-WvkEP5/firefox-58.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 31733, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-WvkEP5/firefox-58.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 31733, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-WvkEP5/firefox-58.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 31733, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-WvkEP5/firefox-58.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 31733, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-WvkEP5/firefox-58.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 31733, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-WvkEP5/firefox-58.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 31733, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-WvkEP5/firefox-58.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 31733, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-WvkEP5/firefox-58.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 31733, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-WvkEP5/firefox-58.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 31733, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-WvkEP5/firefox-58.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709

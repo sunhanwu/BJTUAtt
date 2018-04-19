@@ -41,5 +41,3 @@ def GetCookies(browser):
     #print(type(cookies))
     print(str(cookies))
     return cookies
-browser=webdriver.Firefox()
-login(browser)
