@@ -1,0 +1,34 @@
+missing module named 'multiprocessing.forking' - imported by f:\anaconda3\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_multiprocessing.py
+missing module named multiprocessing.get_context - imported by multiprocessing, multiprocessing.pool, multiprocessing.managers, multiprocessing.sharedctypes
+missing module named multiprocessing.TimeoutError - imported by multiprocessing, multiprocessing.pool
+missing module named multiprocessing.BufferTooShort - imported by multiprocessing, multiprocessing.connection
+missing module named multiprocessing.AuthenticationError - imported by multiprocessing, multiprocessing.connection
+missing module named multiprocessing.set_start_method - imported by multiprocessing, multiprocessing.spawn
+missing module named multiprocessing.get_start_method - imported by multiprocessing, multiprocessing.spawn
+missing module named resource - imported by posix, F:\Workspaces\Python Workspace\fb_crawler\my_crawler1\my_crawler\multi_run.py
+missing module named posix - imported by os, F:\Workspaces\Python Workspace\fb_crawler\my_crawler1\my_crawler\multi_run.py
+missing module named _posixsubprocess - imported by subprocess, multiprocessing.util, F:\Workspaces\Python Workspace\fb_crawler\my_crawler1\my_crawler\multi_run.py
+missing module named org - imported by pickle, F:\Workspaces\Python Workspace\fb_crawler\my_crawler1\my_crawler\multi_run.py
+missing module named readline - imported by cmd, code, pdb, F:\Workspaces\Python Workspace\fb_crawler\my_crawler1\my_crawler\multi_run.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, F:\Workspaces\Python Workspace\fb_crawler\my_crawler1\my_crawler\multi_run.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, F:\Workspaces\Python Workspace\fb_crawler\my_crawler1\my_crawler\multi_run.py
+missing module named _winreg - imported by platform, selenium.webdriver.firefox.firefox_binary, F:\Workspaces\Python Workspace\fb_crawler\my_crawler1\my_crawler\multi_run.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, F:\Workspaces\Python Workspace\fb_crawler\my_crawler1\my_crawler\multi_run.py
+missing module named 'java.lang' - imported by platform, xml.sax._exceptions, F:\Workspaces\Python Workspace\fb_crawler\my_crawler1\my_crawler\multi_run.py
+missing module named vms_lib - imported by platform, F:\Workspaces\Python Workspace\fb_crawler\my_crawler1\my_crawler\multi_run.py
+missing module named termios - imported by tty, getpass, F:\Workspaces\Python Workspace\fb_crawler\my_crawler1\my_crawler\multi_run.py
+missing module named grp - imported by shutil, tarfile, F:\Workspaces\Python Workspace\fb_crawler\my_crawler1\my_crawler\multi_run.py
+missing module named 'org.python' - imported by copy, xml.sax, F:\Workspaces\Python Workspace\fb_crawler\my_crawler1\my_crawler\multi_run.py
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, netrc, getpass, F:\Workspaces\Python Workspace\fb_crawler\my_crawler1\my_crawler\multi_run.py
+missing module named _dummy_threading - imported by dummy_threading, F:\Workspaces\Python Workspace\fb_crawler\my_crawler1\my_crawler\multi_run.py
+missing module named multiprocessing.freeze_support - imported by multiprocessing, F:\Workspaces\Python Workspace\fb_crawler\my_crawler1\my_crawler\multi_run.py
+missing module named multiprocessing.Process - imported by multiprocessing, F:\Workspaces\Python Workspace\fb_crawler\my_crawler1\my_crawler\multi_run.py
+missing module named exceptions - imported by _mysql_exceptions
+missing module named sets - imported by MySQLdb
+missing module named urllib2 - imported by selenium.webdriver.common.utils, selenium.webdriver.remote.remote_connection, selenium.webdriver.common.service
+missing module named StringIO - imported by selenium.webdriver.remote.webelement
+missing module named urlparse - imported by selenium.webdriver.remote.remote_connection
+missing module named httplib - imported by selenium.webdriver.firefox.webdriver, selenium.webdriver.remote.remote_connection, selenium.webdriver.safari.webdriver, selenium.webdriver.blackberry.webdriver, selenium.webdriver.webkitgtk.webdriver
+missing module named cStringIO - imported by selenium.webdriver.firefox.firefox_profile
+missing module named copy_reg - imported by cStringIO

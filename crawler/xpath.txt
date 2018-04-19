@@ -1,0 +1,30 @@
+overview:
+//div[@data-pnref="overview"]/div/ul/li/div/div/div/div/a
+ 
+relationship:
+//div[@data-pnref="rel"]
+
+
+work: 
+//div[@data-pnref="work"]/ul/li/div/div/div/div/div/div[1]
+
+education:
+//div[@data-pnref="edu"]/ul/li/div/div/div/div/div/div[1]/a
+
+professional skills:
+//div[@class="fsl fwn fcg"]/a
+
+
+place:
+//div[@data-referrer="pagelet_hometown"]/div/div/ul/li/div/div/div/div/div/div/span/a
+
+contract info:
+//div[@data-referrer="pagelet_contact"]/div/div/ul/li/div/div
+//div[@data-referrer="pagelet_contact"]/div/div/ul/li/div/div/div/div/span/a
+
+
+basic info:
+//div[@data-referrer="pagelet_basic"]/div/ul/li/div/div
+
+family members:
+//div[@data-referrer="family-relationships-pagelet"]/div/ul/li/div/div/div/div/div/div/div
