@@ -36,7 +36,7 @@ def find_friends(browser):
     with open('friend.csv','e') as f:
         for friend in friends:
             f.writelines(friend.div.a.herf)
-browser = webdriver.Firefox()
+browser = webdriver.Chrome()
 find_friends(browser)
 
 
