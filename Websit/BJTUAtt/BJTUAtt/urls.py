@@ -19,4 +19,5 @@ from . import view
  
 urlpatterns = [
     url(r'^$', view.hello),
+    url(r'^plot/',view.plot),
 ]
