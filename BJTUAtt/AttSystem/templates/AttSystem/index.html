@@ -1,0 +1,75 @@
+{% load staticfiles %}
+<!DOCTYPE HTML>
+<html>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>BJTUAtt</title>
+<link href="/static/css/index/animate.css" rel="stylesheet">
+<script src="/static/js/index/jquery-1.9.1.min.js"></script>
+<script src="/static/js/index/jquery.lettering.js"></script>
+<script src="/static/js/index/jquery.textillate.js"></script>
+<script>
+$(function () {
+	$('.text1').textillate({ in: { effect: 'rollIn' } });
+	$('.text2').textillate({
+		initialDelay: 1000, 	//设置动画开始时间
+		in: { effect: 'flipInX'	//设置动画名称
+		}
+	});
+	$('.text3').textillate({
+		initialDelay: 9000,
+		in: { effect: 'bounceInDown' }
+	});
+})
+
+</script>
+<style type="text/css">
+body {background-image:url("/static/images/index/background.jpg");background-size:cover;}
+div {width:500px;margin:0 auto;}
+.text1,.text2,.text3 {visibility:hidden;}
+.text1,.text2 {color:#fff;color:#fff;}
+.text1 {margin:50px;text-align:center;font-size:100px;text-shadow:0.025em 0.025em 0.025em rgba(0, 0, 0, 0.8);}
+.text2 {font-family:microsoft yahei;font-size:16px;line-height:24px;text-shadow:0.1em 0.1em 0.1em rgba(0, 0, 0, 0.8)}
+.text3 {font-family:microsoft yahei;text-align:center;font-size:36px;color:#fff}
+center {position:fixed;bottom:30px;text-align:center;width:100%;}
+center a {margin:20px; color:#666;text-decoration:none;}
+center a:hover {margin:20px; color:#666;text-decoration:underline;}
+.gotopage{
+	float: left;
+    position:absolute;
+    top:calc(2%);
+    left:calc(75%);
+}
+a:link,a:visited{
+ text-decoration:none;
+ color:#fff;
+ font-family:microsoft yahei;
+}
+a:hover{
+   font-size:25px;
+ color:#fff;
+ font-family:microsoft yahei;
+}
+</style>
+<body>
+<div st>
+<div>
+<p class="text1">BJTUAtt</p>
+</div>
+<div>
+<p class="text2">移动互联网使社交网络进入了一个新阶段。选择当下主流社交软件“facebook”等个人社交行为作为研究内容进行挖掘，同时对个人兴趣、爱好、隐私进行全方面挖掘。
+挖掘个人facebook转发、点赞、以及发布文字等信息行为，分析个人社交图，将其形成可视化系统，最终完成对个人性格、爱好、隐私的全景展示。</p>
+</div>
+<div>
+<p class="text3">欢迎使用复杂社交网络中个人行为挖掘可视化系统!</p>
+</div>
+</div>
+<div class="gotopage">
+<a href="test2.html" style="color: crimson">进入系统</a>
+<a href="#" style="color: crimson">说明文档</a>
+<a href="#" style="color: crimson">开发团队</a>
+<a href="#" style="color: crimson">GitHub</a>
+</div>
+</body>
+</html>
