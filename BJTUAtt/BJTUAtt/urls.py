@@ -15,7 +15,11 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+from django.conf.urls import url,include
+import AttSystem.views as Av
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    url(r'^index/',include('AttSystem.urls')),
+
 ]
