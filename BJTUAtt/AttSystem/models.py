@@ -8,6 +8,9 @@ class user(models.Model):
     big_ext = models.FloatField()
     big_agr = models.FloatField()
     big_neu = models.FloatField()
+    agr=models.FloatField()
+    gender=models.BooleanField()
+
 
     def __str__(self):
         return self.username
